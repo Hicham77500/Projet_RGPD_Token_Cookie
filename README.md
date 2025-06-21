@@ -100,7 +100,3 @@ curl http://localhost:3000/api/auth/protected \
 ---
 
 - Réalisé dans le cadre du projet IPSSI
-
----
-
-Pour toute question ou amélioration, ouvrez une issue ou contactez l’équipe projet.
