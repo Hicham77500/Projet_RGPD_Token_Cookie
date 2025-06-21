@@ -99,7 +99,6 @@ curl http://localhost:3000/api/auth/protected \
 
 ---
 
-## 6. Auteurs
 - Réalisé dans le cadre du projet IPSSI
 
 ---
